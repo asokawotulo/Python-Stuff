@@ -1,0 +1,6 @@
+### Requirements ###
+
+numpy
+matplotlib
+scipy
+ffmpeg-python
